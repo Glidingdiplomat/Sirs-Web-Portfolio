@@ -19,4 +19,4 @@ This project was built with HTML and CSS.
 
 
 ## Deploy:
-I deploy this website by using GitHub commands (Git Clone, git add., git push). And shared a live link for review.
+I deploy this website by using GitHub commands (Git Clone, git add., git push). 
